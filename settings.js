@@ -52,7 +52,7 @@ global.yukiJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎'
-global.botname = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎𝗍'
+global.botname = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎'
 global.wm = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎'
 global.author = 'Made By ⁱᵃᵐ|The Jhon ☆☆╮'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|The Jhon ☆☆╮'
@@ -65,7 +65,7 @@ global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://ibb.co/35RncsVQ'
-global.avatar = 'https://tinyurl.com/25ru293g'
+global.avatar = 'https://ibb.co/35RncsVQ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
