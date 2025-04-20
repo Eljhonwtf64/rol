@@ -64,8 +64,8 @@ global.etiqueta = 'ⁱᵃᵐ|The Jhon ☆☆╮'
 global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'http://imgfz.com/i/N2YlkA3.png'
-global.avatar = 'http://imgfz.com/i/N2YlkA3.png'
+global.banner = 'https://files.catbox.moe/89n7hc.png'
+global.avatar = 'https://files.catbox.moe/89n7hc.png'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
