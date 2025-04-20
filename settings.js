@@ -51,12 +51,12 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі-sᥙ᥆ᥙ-ᑲ᥆𝗍'
-global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ '
+global.packname = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎'
+global.botname = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎𝗍'
+global.wm = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎'
 global.author = 'Made By ⁱᵃᵐ|The Jhon ☆☆╮'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|The Jhon ☆☆╮'
-global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By ⁱᵃᵐ|The Jhon ☆☆╮'
+global.textbot = '☠︎ DᴀʀᴋZᴇʀᴏ-ʙᴏᴛ ☠︎ • Powered By ⁱᵃᵐ|The Jhon ☆☆╮'
 global.etiqueta = 'ⁱᵃᵐ|The Jhon ☆☆╮'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -64,7 +64,7 @@ global.etiqueta = 'ⁱᵃᵐ|The Jhon ☆☆╮'
 global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://tinyurl.com/27d7rnhu'
+global.banner = 'https://ibb.co/35RncsVQ'
 global.avatar = 'https://tinyurl.com/25ru293g'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
